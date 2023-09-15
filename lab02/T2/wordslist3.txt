@@ -1,3 +1,0 @@
-alligator;bear elephant,giraffe goat 
-lion monkey,penguin;polarbear 
-tiger
